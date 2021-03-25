@@ -1,0 +1,8 @@
+<% provide(:title, '') %>
+
+<% if signed_in? %>
+  <%= render 'shared/home_if' %>
+
+<% else %>
+  <%= render 'shared/home_else' %>
+<% end %>
