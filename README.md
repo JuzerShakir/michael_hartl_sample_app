@@ -1,5 +1,6 @@
 # Project: Sample application
 > *A twitter like web-app built on rails.*
+
 > *This is the sample application for the [Ruby on Rails Tutorial](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).*
 
